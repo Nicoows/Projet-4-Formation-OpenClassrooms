@@ -6,7 +6,23 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.text-bloc-2{
+    font-size: 1.4em;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-text-bloc-2{
+    font-size: 1.3em;
+    width: 90%;
+}
+.auteur-text-bloc-2{
+    font-size: 0.8em;
+    margin-top: -15px;
+}
+.quatre-img{
+    width: 100%;
+}
 a,
 button {
     transition: all .3s ease-in-out;
