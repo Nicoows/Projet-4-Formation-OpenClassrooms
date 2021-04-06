@@ -23,6 +23,13 @@ body {
 .quatre-img{
     width: 100%;
 }
+.element-centrer{
+    margin-left: auto;
+    margin-right: auto;
+}
+.color-lien{
+    color: black!important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -693,7 +700,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -720,12 +727,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h3 {
     font-size: 22px;
     line-height: 1.4em;
 }
 
-h3 {
+h2 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
